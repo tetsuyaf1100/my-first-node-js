@@ -5,5 +5,3 @@ for (let i = 1; i <= number; i++) {
     sum = sum + i;
 }
 console.log(sum);
-console.log(process.argv[0])
-console.log(process.argv[1])
